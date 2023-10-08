@@ -1,3 +1,6 @@
+# Important Note!
+Hello all. This project wont be updated again. Thank you for seeing my project!
+
 # rockpaperscissorsPHP
 Rock, Paper, Scissors game with PHP
 
